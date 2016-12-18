@@ -21,6 +21,12 @@ Apart from this, I am involved in Academics at different levels
 - MTech & PhD from IIT Bombayne
 - BE from VNIT (formerly VRCE), Nagpur
 
+# Courses Offerred
+- [Fundamentals of Hadoop](fundamentals-of-hadoop)
+- Advanced MapReduce
+- Stream processing using Apache Apex
+
+
 # Upcoming course details
 The next course is scheduled as per details below:
 
@@ -28,18 +34,14 @@ The next course is scheduled as per details below:
 | ---------------------- |:----------------------:| -----:| ----------------------------- |
 | Fundamentals of Hadoop | 6, 7, and 8 Jan 2017  | 9am to 6pm | Above Gandharv Resturant, Opposite Balgandharva Natrya Gruha, J M Road, Pune  [Map](https://www.justdial.com/Pune/Knowledge-Port-AG-Above-Gandharv-Resturant-Shivaji-Nagar/020PXX20-XX20-141028100104-I5S4_BZDET) |
 
-# Courses Offerred
-- Fundamentals of Hadoop
-- Advanced MapReduce
-- Stream processing using Apache Apex
 
 # FAQs
- Coming up soon...
+Coming up soon...
  
 # Sample lectures
 
 Coming up soon...
 
-### Contact Details
+# Contact Details
 
 Please feel free to contact me on sandeep.deshmukh@gmail.com or call/whatsapp me on +91 91589 86873 
