@@ -1,15 +1,24 @@
 # Profile
 
+Link to [LinkedIn profile](https://in.linkedin.com/in/sandeep-deshmukh-phd-864b461)
+
 ## Industrial Experience
 - Currently committer at [Apache Apex](apex.apache.org) and engineer at [DataTorrent](www.datatorrent.com) building an unified Batch and Stream processing engine. 
 - Data Scientist at Reliance Industies Ltd
 - Senior domain expert at Persistent System Ltd
 
-## Academic Experience
+## Academic
+- Adjunt Professor at PICT, Pune since October 2016
+- Conducted credit course at IIIT Jabalpur on Hadoop
 
+Apart from this, I am involved in Academics at different levels
+- On Adisory board of
+  -- BATU, Lonere, Maharashtra
+  -- VIIT, Pune, Maharashtra
+  -- MMCOE, Pune, Maharashtra
 
 ## Academic Background
-- MTech & PhD from IIT Bombay
+- MTech & PhD from IIT Bombayne
 - BE from VNIT (formerly VRCE), Nagpur
 
 # Next course details
