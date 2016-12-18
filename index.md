@@ -21,14 +21,12 @@ Apart from this, I am involved in Academics at different levels
 - MTech & PhD from IIT Bombayne
 - BE from VNIT (formerly VRCE), Nagpur
 
-# Next course details
+# Upcoming course details
 The next course is scheduled as per details below:
 
-- Course: Fundatamentals of Big Data and Hadoop
-- Dates: 6, 7, and 8 Jan 2017
-- Time: 9am to 6pm
-- Venue: Above Gandharv Resturant, Opposite Balgandharva Natrya Gruha, J M Road, Pune [Map](https://www.justdial.com/Pune/Knowledge-Port-AG-Above-Gandharv-Resturant-Shivaji-Nagar/020PXX20-XX20-141028100104-I5S4_BZDET)
-
+| Course                 | Date                    | Time  |  Venue   |
+| ---------------------- |:----------------------:| -----:| ----------------------------- |
+| Fundamentals of Hadoop | 6, 7, and 8 Jan 2017  | 9am to 6pm | Above Gandharv Resturant, Opposite Balgandharva Natrya Gruha, J M Road, Pune  [Map](https://www.justdial.com/Pune/Knowledge-Port-AG-Above-Gandharv-Resturant-Shivaji-Nagar/020PXX20-XX20-141028100104-I5S4_BZDET) |
 
 # Courses Offerred
 - Fundamentals of Hadoop
