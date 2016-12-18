@@ -1,5 +1,10 @@
 # Profile
-| ![Dr Sandeep Deshmukh](Sandeep_Deshmukh.jpg) | Brief Profile: sadfasd sdafk d LinkedIn profile](https://in.linkedin.com/in/sandeep-deshmukh-phd-864b461)
+| ![Dr Sandeep Deshmukh](Sandeep_Deshmukh.jpg) | Dr. Sandeep Deshmukh completed his PhD from IIT Bombay and has been working in Big Data and Hadoop ecosystem for 7+ years. He has executed complex projects in different domains in a distributed computing environment. He loves teaching and interacting with people and has conducted numerous workshops on Hadoop and Apache Apex. He is also a trainer for Apache Apex.
+
+Currently Sandeep is committer for Apache Apex and works as an engineer at DataTorrent.
+In the past he has worked as Asst. Vice President & Data Scientist with Reliance Industries Ltd. and with Persistent Systems Ltd. as Senior Domain Expert.  | 
+
+[Linkedin profile](https://in.linkedin.com/in/sandeep-deshmukh-phd-864b461)
 
 ## Industrial Experience
 - Currently committer at [Apache Apex](http://apex.apache.org) and engineer at [DataTorrent](http://www.datatorrent.com) building an unified Batch and Stream processing engine. 
