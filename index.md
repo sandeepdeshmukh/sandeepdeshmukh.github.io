@@ -1,5 +1,5 @@
 # Profile
-
+[](Sandeep_Deshmukh.jpg)
 Link to [LinkedIn profile](https://in.linkedin.com/in/sandeep-deshmukh-phd-864b461)
 
 ## Industrial Experience
