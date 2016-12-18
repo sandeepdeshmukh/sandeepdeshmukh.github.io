@@ -22,7 +22,7 @@ Apart from this, I am involved in Academics at different levels
 - BE from VNIT (formerly VRCE), Nagpur
 
 # Courses Offerred
-- [Fundamentals of Hadoop](fundamentals-of-hadoop)
+- [Fundamentals of Hadoop](fundamentals-of-hadoop.md)
 - Advanced MapReduce
 - Stream processing using Apache Apex
 
