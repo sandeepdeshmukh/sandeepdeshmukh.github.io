@@ -1,11 +1,16 @@
 ## Welcome to Dr Sandeep Deshmukh's Home Pages
 
 
-### Profile
+# Profile
 
-Put the profile here.
+## Industrial Experience
 
-```markdown
+## Academic Experience
+
+
+## Academic Background
+- MTech & PhD from IIT Bombay
+- BE from VNIT (formerly VRCE), Nagpur
 
 # Next course details
 
