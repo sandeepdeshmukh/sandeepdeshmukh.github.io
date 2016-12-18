@@ -4,6 +4,9 @@
 # Profile
 
 ## Industrial Experience
+- Currently committer at [Apache Apex](apex.apache.org) and engineer at [DataTorrent](www.datatorrent.com) building an unified Batch and Stream processing engine. 
+- Data Scientist at Reliance Industies Ltd
+- Senior domain expert at Persistent System Ltd
 
 ## Academic Experience
 
