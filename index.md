@@ -1,7 +1,5 @@
 # Profile
-![Dr Sandeep Deshmukh](Sandeep_Deshmukh.jpg)
-
-Link to [LinkedIn profile](https://in.linkedin.com/in/sandeep-deshmukh-phd-864b461)
+| ![Dr Sandeep Deshmukh](Sandeep_Deshmukh.jpg) | Brief Profile: sadfasd sdafk d LinkedIn profile](https://in.linkedin.com/in/sandeep-deshmukh-phd-864b461)
 
 ## Industrial Experience
 - Currently committer at [Apache Apex](http://apex.apache.org) and engineer at [DataTorrent](http://www.datatorrent.com) building an unified Batch and Stream processing engine. 
