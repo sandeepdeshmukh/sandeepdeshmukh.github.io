@@ -15,16 +15,12 @@
 # Next course details
 The next course is scheduled as per details below:
 
-|----------|:-------------:
+|----------|:-------------:|
 | Course |  Fundatamentals of Big Data and Hadoop |
 | Dates |   6, 7, and 8 Jan 2017   |
 | Time | 9am to 6pm | 
     
-Course: Fundatamentals of Big Data and Hadoop
 
-Dates: 6, 7, and 8 Jan 2017
-
-Time: 9am to 6pm
 
 Place: Above Gandharv Resturant, Opposite Balgandharva Natrya Gruha, J M Road, Pune [Map](https://www.justdial.com/Pune/Knowledge-Port-AG-Above-Gandharv-Resturant-Shivaji-Nagar/020PXX20-XX20-141028100104-I5S4_BZDET)
 
