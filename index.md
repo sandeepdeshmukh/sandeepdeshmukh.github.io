@@ -20,6 +20,7 @@ In the past he has worked as Asst. Vice President & Data Scientist with Reliance
 - Conducted credit course at IIIT Jabalpur on Hadoop
 
 Apart from this, I am involved in Academics at different levels
+
 - On Adisory board of
 
  + BATU, Lonere, Maharashtra
