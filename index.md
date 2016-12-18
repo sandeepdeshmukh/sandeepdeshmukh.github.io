@@ -15,6 +15,11 @@
 # Next course details
 The next course is scheduled as per details below:
 
+|----------|:-------------:
+| Course |  Fundatamentals of Big Data and Hadoop |
+| Dates |   6, 7, and 8 Jan 2017   |
+| Time | 9am to 6pm | 
+    
 Course: Fundatamentals of Big Data and Hadoop
 
 Dates: 6, 7, and 8 Jan 2017
