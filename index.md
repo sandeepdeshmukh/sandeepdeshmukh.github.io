@@ -27,7 +27,7 @@ Apart from this, I am involved in Academics at different levels
  3. MMCOE, Pune, Maharashtra
 
 ## Academic Background
-- MTech & PhD from IIT Bombayne
+- MTech & PhD from IIT Bombay
 - BE from VNIT (formerly VRCE), Nagpur
 
 # Courses Offerred
@@ -41,7 +41,7 @@ The next course is scheduled as per details below:
 
 | Course                 | Date                    | Time  |  Venue   |
 | ---------------------- |:----------------------:| -----:| ----------------------------- |
-| Fundamentals of Hadoop | 6, 7, and 8 Jan 2017  | 9am to 6pm | Above Gandharv Resturant, Opposite Balgandharva Natrya Gruha, J M Road, Pune  [Map](https://www.justdial.com/Pune/Knowledge-Port-AG-Above-Gandharv-Resturant-Shivaji-Nagar/020PXX20-XX20-141028100104-I5S4_BZDET) |
+| [Fundamentals of Hadoop](fundamentals-of-hadoop.md) | 6, 7, and 8 Jan 2017  | 9am to 6pm | Above Gandharv Resturant, Opposite Balgandharva Natrya Gruha, J M Road, Pune  [Map](https://www.justdial.com/Pune/Knowledge-Port-AG-Above-Gandharv-Resturant-Shivaji-Nagar/020PXX20-XX20-141028100104-I5S4_BZDET) |
 
 
 # Contact Details
