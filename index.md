@@ -21,9 +21,10 @@ In the past he has worked as Asst. Vice President & Data Scientist with Reliance
 
 Apart from this, I am involved in Academics at different levels
 - On Adisory board of
-  * BATU, Lonere, Maharashtra
-  * VIIT, Pune, Maharashtra
-  * MMCOE, Pune, Maharashtra
+
+ + BATU, Lonere, Maharashtra
+ + VIIT, Pune, Maharashtra
+ + MMCOE, Pune, Maharashtra
 
 ## Academic Background
 - MTech & PhD from IIT Bombayne
