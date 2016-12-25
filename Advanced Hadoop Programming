@@ -1,0 +1,15 @@
+# Advanced Hadoop Programming
+
+### Prerequisite - [Fundamentals of Hadoop](fundamentals-of-hadoop.md) 
+
+1. Recap of Hadoop Basics
+ * HDFS 
+ * MapReduce
+1. Advanced HDFS
+ * HDFS Architecture 
+ * Advanced HDFS commands - hands-on
+ * HDFS programming - hands-on 
+
+1. Advanced MapReduce
+ * MapReduce Architecture
+ * Design Patterns - hands-on
