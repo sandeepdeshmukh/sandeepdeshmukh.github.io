@@ -32,12 +32,14 @@ Apart from this, Sandeep is also involved in Academics at different levels
 - MTech & PhD from IIT Bombay
 - BE from VNIT (formerly VRCE), Nagpur
 
-# Courses Offerred
+# Trainings Offerred
 - [Fundamentals of Hadoop](fundamentals-of-hadoop.md)
 - [Fundamentals of Hadoop - Executive](fundamentals-of-hadoop-executive.md)
 - [Advanced Hadoop Programming](advanced-hadoop-programming.md)
 - Stream processing using Apache Apex
-
+- Data Science Basics
+- Data Science for Executives
+- Advanced Data Science
 
 # Upcoming course details
 The next course is scheduled as per details below:
@@ -50,7 +52,6 @@ The next course is scheduled as per details below:
 # Contact Details
 
 Please feel free to contact me on sandeep[dot]deshmukh[at]gmail.com or call/whatsapp me on +91 91589 86873 
-
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
