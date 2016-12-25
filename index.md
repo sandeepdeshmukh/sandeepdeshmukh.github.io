@@ -19,12 +19,14 @@ In the past he has worked as Asst. Vice President & Data Scientist with Reliance
 - Adjunt Professor at PICT, Pune since October 2016
 - Conducted credit course at IIIT Jabalpur on Hadoop
 
-Apart from this, I am involved in Academics at different levels
+Apart from this, Sandeep is also involved in Academics at different levels
 
-- On Adisory board of
+- On Advisory board of
  1. BATU, Lonere, Maharashtra
  2. VIIT, Pune, Maharashtra
  3. MMCOE, Pune, Maharashtra
+- Regularly delivering invited talks in colleges
+- Evaluation of masters thesis as external examiner
 
 ## Academic Background
 - MTech & PhD from IIT Bombay
@@ -46,7 +48,7 @@ The next course is scheduled as per details below:
 
 # Contact Details
 
-Please feel free to contact me on sandeep.deshmukh@gmail.com or call/whatsapp me on +91 91589 86873 
+Please feel free to contact me on sandeep[dot]deshmukh[at]gmail.com or call/whatsapp me on +91 91589 86873 
 
 
 <script>
