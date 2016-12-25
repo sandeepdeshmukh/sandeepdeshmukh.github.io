@@ -34,7 +34,8 @@ Apart from this, Sandeep is also involved in Academics at different levels
 
 # Courses Offerred
 - [Fundamentals of Hadoop](fundamentals-of-hadoop.md)
-- Advanced MapReduce
+- [Fundamentals of Hadoop - Executive](fundamentals-of-hadoop-executive.md)
+- [Advanced Hadoop Programming](advanced-hadoop-programming.md)
 - Stream processing using Apache Apex
 
 
