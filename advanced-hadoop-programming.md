@@ -19,6 +19,9 @@ This is a power pack 2 day workshop for advanced programmers who would like to m
 
 1. Debugging MapReduce Programs
 
+1. Playing with data formats
+
+
  [Back to Home Page](index.md)
  
  <script>
