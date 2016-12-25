@@ -2,7 +2,7 @@
 
 # Fundamentals of Hadoop - Executive
 
-This program is for all CXO level people who would like to understand a bigger picture in Big Data and Hadoop and refrain from doing hands on.
+This program is a power pack 1 day workshop for CXOs/Senior executives who would like to understand a bigger picture in Big Data and Hadoop. 
 
 1. Big Data
  * What is Big Data
