@@ -10,7 +10,7 @@ Dr. Sandeep Deshmukh completed his PhD from IIT Bombay and has been working in B
 ## Industrial Experience
 - Currently Committer at [Apache Apex](http://apex.apache.org) and Engineer at [DataTorrent](http://www.datatorrent.com) building an unified Batch and Stream processing engine. 
 - Asst. Vice President & Data Scientist at Reliance Industies Ltd
-- Senior domain expert at Persistent System Ltd
+- Senior Domain Expert at Persistent System Ltd
 
 ## Academic
 - Adjunt Professor at PICT, Pune since October 2016
