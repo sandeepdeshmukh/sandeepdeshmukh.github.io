@@ -38,14 +38,15 @@ Apart from this, Sandeep is also involved in Academics at different levels
 - Data Science for Executives
 - Advanced Data Science
 
-# Upcoming course details
+# Course details
+## Upcoming courses
 The next course is scheduled as per details below:
 
 | Course                 | Date                    | Time  |  Venue   |
 | ---------------------- |:----------------------:| -----:| ----------------------------- |
 | [Fundamentals of Hadoop](fundamentals-of-hadoop.md) | 21, 22, and 23 April 2017  | 9am to 6pm | Above Gandharv Resturant, Opposite Balgandharva Natrya Gruha, J M Road, Pune  [Map](https://www.justdial.com/Pune/Knowledge-Port-AG-Above-Gandharv-Resturant-Shivaji-Nagar/020PXX20-XX20-141028100104-I5S4_BZDET) |
 
-# Past course details
+## Past courses
 
 | Course                 | Date                    | Time  |  Venue   |
 | ---------------------- |:----------------------:| -----:| ----------------------------- |
