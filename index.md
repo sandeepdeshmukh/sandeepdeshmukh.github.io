@@ -50,6 +50,9 @@ The next course is scheduled as per details below:
 
 Early bird registration ends 15 April 2017.
 
+<iframe src="https://www.townscript.com/widget/big-data-and-hadoop-fundamentals-431002" frameborder="0" height="600" width="80%"></iframe>
+
+
 # Money Back Guarantee
 All the participants would have the option to get their complete money back if they are not satisifed with the course delivery. This is applicable when the participants attends the training completely and not for participants to miss out on any session.
 
