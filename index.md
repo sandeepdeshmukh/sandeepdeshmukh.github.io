@@ -45,12 +45,11 @@ The next course is scheduled as per details below:
 | ---------------------- |:----------------------:| -----:| ----------------------------- |
 | [Fundamentals of Hadoop](fundamentals-of-hadoop.md) | 21, 22, and 23 April 2017  | 9am to 6pm | Above Gandharv Resturant, Opposite Balgandharva Natrya Gruha, J M Road, Pune  [Map](https://www.justdial.com/Pune/Knowledge-Port-AG-Above-Gandharv-Resturant-Shivaji-Nagar/020PXX20-XX20-141028100104-I5S4_BZDET) |
 
-# Upcoming course details
+# Past course details
 
 | Course                 | Date                    | Time  |  Venue   |
 | ---------------------- |:----------------------:| -----:| ----------------------------- |
 | [Fundamentals of Hadoop](fundamentals-of-hadoop.md) | 6, 7, and 8 Jan 2017  | 9am to 6pm | Above Gandharv Resturant, Opposite Balgandharva Natrya Gruha, J M Road, Pune  [Map](https://www.justdial.com/Pune/Knowledge-Port-AG-Above-Gandharv-Resturant-Shivaji-Nagar/020PXX20-XX20-141028100104-I5S4_BZDET) |
-
 
 # Contact Details
 
