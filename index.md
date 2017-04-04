@@ -55,7 +55,7 @@ A group discount of Rs. 2000 is availale for each participant for three or more 
 You can also pay by bank transfer. Please mail or call for details.
 
 # Money Back Guarantee
-All the participants would have the option to get their complete money back if they are not satisifed with the course delivery. This is applicable when the participants attends the training completely and not for participants to miss out on any session.
+All the participants would have the option to get their complete money back if they are not satisifed with the course delivery. This is applicable when the participants attends the training completely and not for participants who miss out on any session.
 
 
 ## Past courses
