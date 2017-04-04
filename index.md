@@ -50,7 +50,9 @@ The next course is scheduled as per details below:
 
 Early bird registration ends 15 April 2017.
 
-A discount of Rs. 2000 for group registration of three or more participants.
+A group discount of Rs. 2000 is availale for each participant for three or more participants.
+
+You can also pay by bank transfer. Please mail or call for details.
 
 # Money Back Guarantee
 All the participants would have the option to get their complete money back if they are not satisifed with the course delivery. This is applicable when the participants attends the training completely and not for participants to miss out on any session.
