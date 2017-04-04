@@ -58,7 +58,7 @@ All the participants would have the option to get their complete money back if t
 
 | Course                 | Date                    | Time  |  Venue   |
 | ---------------------- |:----------------------:| -----:| ----------------------------- |
-| [Fundamentals of Hadoop](fundamentals-of-hadoop.md) | 6, 7, and 8 Jan 2017  | 9am to 6pm | Above Gandharv Resturant, Opposite Balgandharva Natrya Gruha, J M Road, Pune  [Map](https://www.justdial.com/Pune/Knowledge-Port-AG-Above-Gandharv-Resturant-Shivaji-Nagar/020PXX20-XX20-141028100104-I5S4_BZDET) |
+| [Fundamentals of Hadoop](fundamentals-of-hadoop.md) | 6, 7, and 8 Jan 2017  | 9am to 6pm | Knowledge Port AG, Above Gandharv Resturant, Opposite Balgandharva Natrya Gruha, J M Road, Pune  [Map](https://goo.gl/maps/vQiTUoswYF52) |
 
 
 # Contact Details
