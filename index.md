@@ -52,6 +52,11 @@ The next course is scheduled as per details below:
 | ---------------------- |:----------------------:| -----:| ----------------------------- |
 | [Fundamentals of Hadoop](fundamentals-of-hadoop.md) | 6, 7, and 8 Jan 2017  | 9am to 6pm | Above Gandharv Resturant, Opposite Balgandharva Natrya Gruha, J M Road, Pune  [Map](https://www.justdial.com/Pune/Knowledge-Port-AG-Above-Gandharv-Resturant-Shivaji-Nagar/020PXX20-XX20-141028100104-I5S4_BZDET) |
 
+Early bird registration ends 15 April 2017.
+
+# Money Back Guarantee
+All the participants would have the option to get their complete money back if they are not satisifed with the course delivery. This is applicable when the participants attends the training completely and not for participants to miss out on any session.
+
 # Contact Details
 
 Email: sandeep.deshmukh@gmail.com
