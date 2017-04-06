@@ -16,17 +16,20 @@ The next course is scheduled as per details below:
 
 A group discount of Rs. 2000 is availale for each participant for a group of three or more participants.
 
-You can also pay by bank transfer. Please mail or call for details.
-
 ## Money Back Guarantee
 All the participants would have the option to get their complete money back if they are not satisifed with the course delivery. This is applicable when the participants attends the training completely and not for participants who miss out on any session.
 
 ## Registration
-Please email or call before you register online to check availability. There are offline registration going on 
-which may not reflect in the ticking system. Althoug we try to keep it updates, we would recommend you to first 
-check with us before making any transaction.
+Please email or call before you register online to check availability. There are offline registrations going on 
+which may not immediately reflect in the ticking system. Although we try to keep it updated, we would recommend you to first 
+check with us before making any transaction. You can mail to sandeep.deshmukh@gmail.com or call +91 9158986873.
+
+### Register via ticketing system
 
 <button onclick="popup('big-data-and-hadoop-fundamentals-431002');" class="tsbutton">Register Now</button><noscript id="tsNoJsMsg">Javascript on your browser is not enabled.</noscript><script src="//www.townscript.com/popup-widget/townscript-widget.nocache.js" type="text/javascript"></script>
+
+### Register via online bank transfer
+You could also register via online bank transfer or using UPI. Please get in touch with us for details.
 
 
 [Back to Home Page](index.md)
