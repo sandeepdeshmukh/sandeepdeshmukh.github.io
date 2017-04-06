@@ -9,8 +9,8 @@ The next course is scheduled as per details below:
 
 ## Fees
 
-| Type                   | Amout           |
-| ---------------------- |:---------------:|
+| Type                   | Amout           | Dates                |
+| ---------------------- |:---------------:|:--------------------:|
 | Regular                |  Rs. 25,000/-   | Till 20th April 2017 |
 | Early Bird             |  Rs. 20,000/-   | Till 15th April 2017 |
 
