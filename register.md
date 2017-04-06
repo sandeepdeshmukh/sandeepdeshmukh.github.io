@@ -1,4 +1,5 @@
-# Upcoming courses
+# Registration for upcoming courses
+
 The next course is scheduled as per details below:
 
 | Course                 | Date                    | Time  |  Venue   |
