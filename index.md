@@ -8,7 +8,9 @@ Dr Sandeep Deshmukh completed his PhD from IIT Bombay and has been working in Bi
 [Linkedin profile](https://in.linkedin.com/in/sandeep-deshmukh-phd-864b461)
 
 ## Industrial Experience
-- Currently Committer at [Apache Apex](http://apex.apache.org) and Engineer at [DataTorrent](http://www.datatorrent.com) building an unified Batch and Stream processing engine. 
+- Currently Trainer and Consultant for Big Data, Hadoop and Apache Apex
+- Committer at [Apache Apex](http://apex.apache.org)
+- Engineer at [DataTorrent](http://www.datatorrent.com) building an unified Batch and Stream processing engine. 
 - Asst. Vice President & Data Scientist at Reliance Industies Ltd
 - Senior Domain Expert at Persistent System Ltd
 
@@ -53,7 +55,7 @@ A group discount of Rs. 2000 is availale for each participant for three or more 
 You can also pay by bank transfer. Please mail or call for details.
 
 ## Registration
-[register.md](Please Register here).
+[Please Register here](register.md).
 
 # Money Back Guarantee
 All the participants would have the option to get their complete money back if they are not satisifed with the course delivery. This is applicable when the participants attends the training completely and not for participants who miss out on any session.
