@@ -50,18 +50,13 @@ The next course is scheduled as per details below:
 | ---------------------- |:----------------------:| -----:| ----------------------------- |
 | [Fundamentals of Big Data and Hadoop](fundamentals-of-hadoop.md) | 21, 22, and 23 April 2017  | 9am to 6pm | Above Gandharv Resturant, Opposite Balgandharva Natrya Gruha, J M Road, Pune  [Map](https://www.justdial.com/Pune/Knowledge-Port-AG-Above-Gandharv-Resturant-Shivaji-Nagar/020PXX20-XX20-141028100104-I5S4_BZDET) |
 
-Early bird registration ends 15 April 2017.
-
-A group discount of Rs. 2000 is availale for each participant for three or more participants.
-
-You can also pay by bank transfer. Please mail or call for details.
+Early bird registration ends 15 April 2017. [Please visit registration page for details](register.md).
 
 ## Registration
 [Please Register here](register.md).
 
 # Money Back Guarantee
-All the participants would have the option to get their complete money back if they are not satisifed with the course delivery. This is applicable when the participants attends the training completely and not for participants who miss out on any session.
-
+If a participant is not happy with the training, we offer 100% money back guarantee.
 
 ## Past courses
 
