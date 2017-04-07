@@ -22,7 +22,7 @@ If you are not happy with the training, we offer 100% money back guarantee.
 
 ## Registration
 Please email or call before you register online to check availability. There are offline registrations going on 
-which may not immediately reflect in the ticking system. Although we try to keep it updated, we would recommend you to first 
+which may not immediately reflect in the ticketing system. Although we try to keep it updated, we would recommend you to first 
 check with us before making any transaction. You can mail to sandeep.deshmukh@gmail.com or call +91 9158986873.
 
 ### Register via online bank transfer (Preferred)
