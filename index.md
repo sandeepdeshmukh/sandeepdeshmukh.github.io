@@ -10,13 +10,15 @@ Dr Sandeep Deshmukh completed his PhD from IIT Bombay and has been working in Bi
 ## Industrial Experience
 - Currently Trainer and Consultant for Big Data, Hadoop and Apache Apex
 - Committer at [Apache Apex](http://apex.apache.org)
-- Engineer at [DataTorrent](http://www.datatorrent.com) building an unified Batch and Stream processing engine. 
-- Asst. Vice President & Data Scientist at Reliance Industies Ltd
-- Senior Domain Expert at Persistent System Ltd
+- Engineer at [DataTorrent](http://www.datatorrent.com) building an unified Batch and Stream processing engine
+- Asst. Vice President & Data Scientist at Reliance Industies Ltd.
+- Senior Domain Expert at Persistent Systems Ltd.
 
 ## Academic
 - Adjunt Professor at PICT, Pune since October 2016
 - Conducted credit course at IIIT Jabalpur on Hadoop
+- Resource Person in many Faculty Development Programs
+- Numerous workshops for Students
 
 Apart from this, Sandeep is also involved in Academics at different levels
 
@@ -32,8 +34,8 @@ Apart from this, Sandeep is also involved in Academics at different levels
 - BE from VNIT (formerly VRCE), Nagpur
 
 # Trainings Offerred
-- [Fundamentals of Hadoop](fundamentals-of-hadoop.md)
-- [Fundamentals of Hadoop - Executive](fundamentals-of-hadoop-executive.md)
+- [Fundamentals of Big Data and Hadoop](fundamentals-of-hadoop.md)
+- [Fundamentals of Big Data and Hadoop - Executive](fundamentals-of-hadoop-executive.md)
 - [Advanced Hadoop Programming](advanced-hadoop-programming.md)
 - Stream processing using Apache Apex
 - Data Science Basics
@@ -46,7 +48,7 @@ The next course is scheduled as per details below:
 
 | Course                 | Date                    | Time  |  Venue   |
 | ---------------------- |:----------------------:| -----:| ----------------------------- |
-| [Fundamentals of Hadoop](fundamentals-of-hadoop.md) | 21, 22, and 23 April 2017  | 9am to 6pm | Above Gandharv Resturant, Opposite Balgandharva Natrya Gruha, J M Road, Pune  [Map](https://www.justdial.com/Pune/Knowledge-Port-AG-Above-Gandharv-Resturant-Shivaji-Nagar/020PXX20-XX20-141028100104-I5S4_BZDET) |
+| [Fundamentals of Big Data and Hadoop](fundamentals-of-hadoop.md) | 21, 22, and 23 April 2017  | 9am to 6pm | Above Gandharv Resturant, Opposite Balgandharva Natrya Gruha, J M Road, Pune  [Map](https://www.justdial.com/Pune/Knowledge-Port-AG-Above-Gandharv-Resturant-Shivaji-Nagar/020PXX20-XX20-141028100104-I5S4_BZDET) |
 
 Early bird registration ends 15 April 2017.
 
