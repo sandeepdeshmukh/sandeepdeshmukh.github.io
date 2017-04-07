@@ -61,7 +61,8 @@ If you are not happy with the training, we offer 100% money back guarantee.
 | Course                                       | Date                           |  Venue                    |
 | :------------------------------------------- |:------------------------------:|:------------------------- |
 | Faculty Development Program | 18 March 2017  | [Lovely University, Jalandhar, Punjab](http://www.lpu.in)|
-| [Fundamentals of Big Data and Hadoop](fundamentals-of-hadoop.md) | 6, 7, 8 Jan 2017  | Knowledge Port AG,J M Road, Pune  [Map](https://goo.gl/maps/vQiTUoswYF52) |
+[Apache Apex](http://apex.apache.org)<br/> as DataTorrent employee | 11 Feb 2017  | Hilton Conrad, Pune  |
+[Fundamentals of Big Data and Hadoop](fundamentals-of-hadoop.md) | 6, 7, 8 Jan 2017  | Knowledge Port AG,J M Road, Pune  [Map](https://goo.gl/maps/vQiTUoswYF52) |
 [Apache Apex](http://apex.apache.org)<br/> as DataTorrent employee | 18, 19, 20 Jan 2017  | Knowledge Port AG, J M Road, Pune  [Map](https://goo.gl/maps/vQiTUoswYF52) |
 | [Fundamentals of Big Data and Hadoop](fundamentals-of-hadoop.md) | 29, 30 Dec 2016 | Corporate Training at [Mindstix Labs](http://www.mindstix.com) |
 [Apache Apex](http://apex.apache.org)<br/> as DataTorrent employee | 15, 16 Dec 2016  |DataTorrent Office, Pune |
