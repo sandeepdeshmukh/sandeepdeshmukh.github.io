@@ -14,7 +14,7 @@ The next course is scheduled as per details below:
 | Regular                |  Rs. 25,000/-   | Till 20th April 2017 |
 | Early Bird             |  Rs. 20,000/-   | Till 15th April 2017 |
 
-A group discount of Rs. 2000 is availale for each participant for a group of three or more participants.
+A group discount of Rs. 2000 is availale to each participant for a group of three or more participants.
 
 ## Money Back Guarantee
 If the participant is not happy with the training, we offer 100% money back guarantee.
