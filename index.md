@@ -56,7 +56,7 @@ Early bird registration ends 15 April 2017. [Please visit registration page for 
 [Please Register here](register.md).
 
 # Money Back Guarantee
-If a participant is not happy with the training, we offer 100% money back guarantee.
+If you are not happy with the training, we offer 100% money back guarantee.
 
 ## Past courses
 
