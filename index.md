@@ -61,10 +61,10 @@ If you are not happy with the training, we offer 100% money back guarantee.
 | Course                                   | Date                           |  Venue                    |
 | :--------------------------------------- |:------------------------------:|:------------------------- |
 | Faculty Development Program | 18 March 2017  | Lovely University, Jalandhar, Punjab|
-| [Fundamentals of Big Data and Hadoop](fundamentals-of-hadoop.md) | 6, 7, 8 Jan 2017  | Knowledge Port AG, Above Gandharv Resturant, Opposite Balgandharva Natrya Gruha, J M Road, Pune  [Map](https://goo.gl/maps/vQiTUoswYF52) |
-[Apache Apex](http://apex.apache.org)<br/> as DataTorrent employee | 18, 19, 20 Jan 2017  | Knowledge Port AG, Above Gandharv Resturant, Opposite Balgandharva Natrya Gruha, J M Road, Pune  [Map](https://goo.gl/maps/vQiTUoswYF52) |
+| [Fundamentals of Big Data and Hadoop](fundamentals-of-hadoop.md) | 6, 7, 8 Jan 2017  | Knowledge Port AG,J M Road, Pune  [Map](https://goo.gl/maps/vQiTUoswYF52) |
+[Apache Apex](http://apex.apache.org)<br/> as DataTorrent employee | 18, 19, 20 Jan 2017  | Knowledge Port AG, J M Road, Pune  [Map](https://goo.gl/maps/vQiTUoswYF52) |
 | [Fundamentals of Big Data and Hadoop](fundamentals-of-hadoop.md) | 29, 30 Dec 2016 | Corporate Training at [Mindstix Labs](http://www.mindstix.com) |
-[Apache Apex](http://apex.apache.org)<br/> as DataTorrent employee | 15, 16 Dec 2016  | Knowledge Port AG, Above Gandharv Resturant, Opposite Balgandharva Natrya Gruha, J M Road, Pune  [Map](https://goo.gl/maps/vQiTUoswYF52) |
+[Apache Apex](http://apex.apache.org)<br/> as DataTorrent employee | 15, 16 Dec 2016  |DataTorrent Office, Pune |
 | [Fundamentals of Big Data and Hadoop](fundamentals-of-hadoop.md) | Sept-Nov 2016 | Corporate Training at [Genius Minds Consulting and Services](http://genius-minds.com) |
 | [Fundamentals of Big Data and Hadoop](fundamentals-of-hadoop.md) | June-Aug 2016 | Pune  |
 | [Fundamentals of Big Data and Hadoop](fundamentals-of-hadoop.md) | March-April 2016 | Pune |
