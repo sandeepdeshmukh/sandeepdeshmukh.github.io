@@ -23,7 +23,7 @@ If you are not happy with the training, we offer 100% money back guarantee.
 ## Registration
 Please email or call before you register online to check availability. There are offline registrations going on 
 which may not immediately reflect in the ticketing system. Although we try to keep it updated, we would recommend you to first 
-check with us before making any transaction. You can mail to sandeep.deshmukh@gmail.com or call +91 9158986873.
+check with us before making any transaction.
 
 ### Register via online bank transfer (Preferred)
 You could also register via UPI or online bank transfer with following details.
@@ -39,7 +39,15 @@ You could also register via UPI or online bank transfer with following details.
 <button onclick="popup('big-data-and-hadoop-fundamentals-431002');" class="tsbutton">Register Now</button><noscript id="tsNoJsMsg">Javascript on your browser is not enabled.</noscript><script src="//www.townscript.com/popup-widget/townscript-widget.nocache.js" type="text/javascript"></script>
 
 
-[Back to Home Page](index.md)
+
+# Contact Details
+
+Email: sandeep.deshmukh@gmail.com
+
+Mobile: +91 91589 86873 
+
+
+##[Back to Home Page](index.md)
  
  <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
