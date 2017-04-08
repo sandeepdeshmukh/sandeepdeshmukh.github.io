@@ -14,6 +14,8 @@ Dr Sandeep Deshmukh completed his PhD from IIT Bombay and has been working in Bi
 
 ## Academic
 - Adjunt Professor at PICT, Pune since October 2016
+- Industry Relations Chair, IEEE Pune Section 2015, 2016
+- Executive Committee Member, IEEE Pune Section 2017-till date
 - Conducted credit course at IIIT Jabalpur on Hadoop
 - Resource Person in many Faculty Development Programs
 - Numerous workshops for Students
