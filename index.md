@@ -62,7 +62,8 @@ If you are not happy with the training, we offer 100% money back guarantee.
 ![Genius Minds](GeniusMinds.jpg.png)
 
 
-![Mindstix](Mindstix.png)
+<img src="Mindstix.png" width="200" height="50" />
+
 
 ## Past courses
 
