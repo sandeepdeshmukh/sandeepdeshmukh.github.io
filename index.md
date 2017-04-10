@@ -58,6 +58,10 @@ Early bird registration ends 15 April 2017. [Please visit registration page for 
 ## Money Back Guarantee
 If you are not happy with the training, we offer 100% money back guarantee.
 
+# Corporate Clients
+![Genius Minds](GeniusMinds.jpg)
+![Mindstix](Mindstix.jpg)
+
 ## Past courses
 
 | Course                                       | Date                           |  Venue                    |
@@ -69,6 +73,7 @@ If you are not happy with the training, we offer 100% money back guarantee.
 | [Fundamentals of Big Data and Hadoop](fundamentals-of-hadoop.md) | 29, 30 Dec 2016 | Corporate Training at [Mindstix Labs](http://www.mindstix.com) |
 [Apache Apex](http://apex.apache.org)<br/> as DataTorrent employee | 15, 16 Dec 2016  |DataTorrent Office, Pune |
 | [Fundamentals of Big Data and Hadoop](fundamentals-of-hadoop.md) | Sept-Nov 2016 | Corporate Training at [Genius Minds Consulting and Services](http://genius-minds.com) |
+| [Fundamentals of Big Data and Hadoop](fundamentals-of-hadoop.md) | July-Aug 2016 | VIIT, Pune  |
 | [Fundamentals of Big Data and Hadoop](fundamentals-of-hadoop.md) | June-Aug 2016 | Pune  |
 | [Fundamentals of Big Data and Hadoop](fundamentals-of-hadoop.md) | March-April 2016 | Pune |
 
