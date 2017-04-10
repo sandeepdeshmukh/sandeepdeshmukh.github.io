@@ -59,8 +59,10 @@ Early bird registration ends 15 April 2017. [Please visit registration page for 
 If you are not happy with the training, we offer 100% money back guarantee.
 
 # Corporate Clients
-![Genius Minds](GeniusMinds.jpg)
-![Mindstix](Mindstix.jpg)
+![Genius Minds](GeniusMinds.jpg.png)
+
+
+![Mindstix](Mindstix.png)
 
 ## Past courses
 
